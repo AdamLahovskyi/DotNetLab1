@@ -1,0 +1,22 @@
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.exe.config
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\bin\Debug\ATMClassLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\bin\Debug\ATMClassLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.exe.config
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\bin\Debug\ConsoleATM.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\bin\Debug\ATMClassLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\bin\Debug\ATMClassLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ConsoleATM\obj\Debug\ConsoleATM.pdb

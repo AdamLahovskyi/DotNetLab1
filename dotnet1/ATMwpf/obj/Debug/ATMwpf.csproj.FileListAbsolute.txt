@@ -1,0 +1,54 @@
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\bin\Debug\ATMwpf.exe.config
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\bin\Debug\ATMwpf.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\bin\Debug\ATMwpf.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf_MarkupCompile.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf_MarkupCompile.lref
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.g.resources
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.Properties.Resources.resources
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.GenerateResource.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\bin\Debug\ATMClassLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\bin\Debug\ATMClassLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\App.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\addFundsPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\AutorizationPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\MainMenuPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\MainWindow.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\addFundsPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\AutorizationPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\MainMenuPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\MainWindow.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\TransferMoneyPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\dotnet1\ATMwpf\obj\Debug\TransferMoneyPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\bin\Debug\ATMwpf.exe.config
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\bin\Debug\ATMwpf.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\bin\Debug\ATMwpf.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\bin\Debug\ATMClassLibrary.dll
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\bin\Debug\ATMClassLibrary.pdb
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.AssemblyReference.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\addFundsPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\AutorizationPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\MainMenuPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\MainWindow.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\TransferMoneyPage.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\App.g.cs
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf_MarkupCompile.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf_MarkupCompile.lref
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\addFundsPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\AutorizationPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\MainMenuPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\MainWindow.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\TransferMoneyPage.baml
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.g.resources
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.Properties.Resources.resources
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.GenerateResource.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.CoreCompileInputs.cache
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.csproj.CopyComplete
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.exe
+C:\Users\Adam Lahovskyi\Desktop\university\Курс №2\Семестр №1\.net\lab1 final\dotnet1\ATMwpf\obj\Debug\ATMwpf.pdb
