@@ -30,6 +30,8 @@ namespace ConsoleATM
         private delegate bool TransferMoneyDelegate(float amount, string recipientCardNumber, Account senderAccount, User[] users, int senderIndex);
         private delegate void AddMoneyToAccountDelegate(float amount, Account userAccount);
 
+
+
         private static void Main()
         {
             Console.WriteLine("Welcome to the ATM system!");
